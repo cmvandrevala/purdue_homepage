@@ -9,8 +9,13 @@ Content
 
 This website will include:
 
-*Welcome and Homepage
-*My Teaching Philosophy
+* Welcome and Homepage
+* A Short Biography
+* My Research Experience
+* My Personal Interests
+* My Teaching Philosophy
+* Content for My Students
+* Contact Information
 
 
 Other Uses
