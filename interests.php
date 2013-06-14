@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-	<meta name="description" content="My Personal Website Hosted by Purdue University">
-	<meta name="keywords" content="physics, graduate, student, quantum, computing, Purdue">
-	<meta name="keywords" content="university, electricity, optics, PHYS">
-	<meta name="author" content="Cyrus Vandrevala">
-	<link rel="stylesheet" type="text/css" href="variant-whitespace.css" media="all">
-	<title>Cyrus' Purdue Webpage</title>
-</head>
+<?php include("header.php"); ?>
 
 <body>
 <div id="wrap">
@@ -18,18 +11,7 @@
 		-Carl Sagan</p></FONT>
 	</div>
 
-
-	<div id="sidebar">
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">About Me</a></li>
-			<li><a href="research.html">Research</a></li>
-			<li><a href="courses.html">Courses</a></li>
-			<li><a class="current" href="interests.html">Other Interests</a></li>
-			<li><a href="philosophy.html">Teaching Philosophy</a></li>
-			<li><a href="contact.html">Contact</a></li>
-		</ul>
-	</div>
+	<?php include("menu.php"); ?>
 
 	<div id="content">
 		<h2>Other Interests</h2>
@@ -52,10 +34,7 @@
 		<p>Not so much the gaming aspect, but the systems themselves.  I like taking them apart, putting them back together, and playing with network systems.</p>
 	</div>
 
-	<div id="footer">
-		<p><span>&copy; 2012 <a href="#">Cyrus Vandrevala</a></span><br />
-		Template design by <a href="http://andreasviklund.com/">Andreas Viklund</a></p>
-	</div>
+	<?php include("footer.php"); ?>
 </div>
 
 </body>
