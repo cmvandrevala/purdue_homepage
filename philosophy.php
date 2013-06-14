@@ -21,10 +21,8 @@
 			<p>I think that a lot of people in this day and age miss the point of education.  They see it as something you need to get out of the way before you can get to your “real” job.  But I strive to show my students that this is not true.  Yes, education must prepare you for your future profession.  But at the same time, I want my students to realize that an education is not simply a list of skills that they will need to get by in their job.  Knowledge is worth pursuing because it is beautiful.  It adds a layer of understanding and meaning to our universe that we as human beings spend our lives searching for.  I do not pretend that this pursuit of knowledge is easy, but it is worth the struggle in the end.</p>
 	</div>
 
-
 	<?php include("footer.php"); ?>
 </div>
 
 </body>
 </html>
-
