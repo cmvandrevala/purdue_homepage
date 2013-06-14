@@ -4,6 +4,7 @@ For more information, see http://andreasviklund.com/templates/variant-whitespace
 */
 
 /* Main layout and header */
+html {overflow-y: scroll;}
 body {background:#fff url(img/bg.jpg) top center no-repeat; color:#3a3a3a; font:83% Helvetica,Verdana,Arial,sans-serif; line-height:1.6em; margin:0 auto; padding:0;}
 #wrap {color:#555; margin:0 auto; padding:0; width:760px;}
 #header {color:#b75858; height:220px; margin:0 0 10px; padding:0;}
@@ -42,10 +43,3 @@ img.alignleft {display:inline; float:left; margin:5px 15px 5px 0;}
 img.alignright {float:right; margin:5px 0 5px 15px;}
 img.aligncenter {display:block; margin:10px auto;}
 img.border {background:#f4f4f4; border:1px solid #ddd; padding:5px;}
-
-/* Mirrored through body class="reversed" */
-body.reversed {background:#fff url(img/bg-reversed.jpg) top center no-repeat;}
-body.reversed #header {padding-left:220px;}
-body.reversed #sidebar {float:left; margin:-135px 20px 5px 19px; width:160px;}
-body.reversed #content {margin:-10px 0px 10px 240px; width:520px;}
-body.reversed #content h2, body.reversed #content h3 {clear:none;}
