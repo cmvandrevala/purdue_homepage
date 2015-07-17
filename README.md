@@ -1,13 +1,13 @@
 Purdue Wobsite
 ==============
 
-These are the files for my personal website at Purdue University.  This is mainly an academic and teaching website, so it will constantly be updated with material for my classes.  
+These were the files for my personal website at Purdue University. As of now, this site has been replaced by my personal portfolio site.
 
 
 Content
 -------
 
-This website will include:
+This website includes:
 
 * Welcome and Homepage
 * A Short Biography
